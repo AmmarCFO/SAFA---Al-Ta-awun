@@ -28,20 +28,20 @@ export const SCENARIOS: any[] = [
             { name: '2 Bedroom Apartment', count: 2, avgPrice: 11900 }
         ],
         inventory: [
-            { code: '201', type: '3BR', size: 120.8, price: { worst: 12232, base: 13614, best: 15197 } },
-            { code: '202', type: '3BR', size: 140.17, price: { worst: 12000, base: 12470, best: 14341 } },
-            { code: '203', type: '3BR', size: 194.17, price: { worst: 12100, base: 12652, best: 13975 } },
-            { code: '204', type: '3BR', size: 148.86, price: { worst: 9800, base: 10500, best: 11343 } },
-            { code: '205', type: '3BR', size: 162.57, price: { worst: 12000, base: 13294, best: 15288 } },
-            { code: '206', type: '3BR', size: 123.71, price: { worst: 9967, base: 11356, best: 12844 } },
-            { code: '207', type: '3BR', size: 155.06, price: { worst: 12721, base: 14407, best: 15993 } },
-            { code: '208', type: '3BR', size: 176.9, price: { worst: 14402, base: 16943, best: 19484 } },
-            { code: '209', type: '3BR', size: 162.57, price: { worst: 13189, base: 14998, best: 17247 } },
-            { code: '210', type: '3BR', size: 123.71, price: { worst: 9947, base: 11332, best: 12817 } },
-            { code: '211', type: '3BR', size: 155.06, price: { worst: 12476, base: 14119, best: 15761 } },
-            { code: '212', type: '3BR', size: 176.9, price: { worst: 13826, base: 15855, best: 18233 } },
-            { code: '213', type: '2BR', size: 238.17, price: { worst: 9315, base: 10959, best: 12603 } },
-            { code: '214', type: '2BR', size: 272.97, price: { worst: 10993, base: 12933, best: 14873 } }
+            { code: 'A201', type: '3BR', size: 120.8, price: { worst: 12200, base: 13600, best: 15200 } },
+            { code: 'A202', type: '3BR', size: 140.17, price: { worst: 12000, base: 12500, best: 14300 } },
+            { code: 'A203', type: '3BR', size: 194.17, price: { worst: 12100, base: 12700, best: 14000 } },
+            { code: 'A204', type: '3BR', size: 148.86, price: { worst: 9800, base: 10500, best: 11300 } },
+            { code: 'A205', type: '3BR', size: 162.57, price: { worst: 12000, base: 13300, best: 15300 } },
+            { code: 'A206', type: '3BR', size: 123.71, price: { worst: 10000, base: 11400, best: 12800 } },
+            { code: 'A207', type: '3BR', size: 155.06, price: { worst: 12700, base: 14400, best: 16000 } },
+            { code: 'A208', type: '3BR', size: 176.9, price: { worst: 14400, base: 16900, best: 19500 } },
+            { code: 'A209', type: '3BR', size: 162.57, price: { worst: 13200, base: 15000, best: 17200 } },
+            { code: 'A210', type: '3BR', size: 123.71, price: { worst: 9900, base: 11300, best: 12800 } },
+            { code: 'A211', type: '3BR', size: 155.06, price: { worst: 12500, base: 14100, best: 15800 } },
+            { code: 'A212', type: '3BR', size: 176.9, price: { worst: 13800, base: 15900, best: 18200 } },
+            { code: 'A213', type: '2BR', size: 238.17, price: { worst: 9300, base: 11000, best: 12600 } },
+            { code: 'A214', type: '2BR', size: 272.97, price: { worst: 11000, base: 12900, best: 14900 } }
         ]
     },
 
